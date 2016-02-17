@@ -6,5 +6,5 @@ for (i = 0; i < 5; i++)
   forkCar(20, EAST, 120);
 // 2 west
 for (i = 0; i < 2; i++)
-  forkCar(20, WEST, 120);
+  forkCar(40, WEST, 120);
 driveRoad(WEST, 120); // blocks
